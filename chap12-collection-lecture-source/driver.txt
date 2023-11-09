@@ -1,0 +1,6 @@
+#jdbc driver
+#Tue Jun 01 15:31:22 KST 2021
+user=student
+password=student
+url=jdbc\:oracle\:thin\:@localhost\:1524\:xe
+driver=oracle.jdbc.driver.OracleDriver
