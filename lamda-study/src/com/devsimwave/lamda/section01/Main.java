@@ -12,6 +12,10 @@ public class Main {
         /*
          * 람다식(Lambda Expression)
          * 람다식은 자바 8에서 도입된 기능으로, 코드를 더 간결하게 하고 함수를 값처럼 다룰 수 있게 해주는 방법을 제공한다.
+         * 람다는
+         * 스레드 실행 시 Runnalbe 인터페이스 구현
+         * 정렬 기준 정의 시 Comparator 구현
+         * 리스트 필터링 시 Stream API 에서 조건 정의 등 여러 곳에서 사용된다.
          */
         List<String> names = Arrays.asList("Harry", "Jamal", "Kim", "Thomas", "Manuel");
 
