@@ -1,4 +1,4 @@
-package ocp.correct;
+package open_closed_principle.correct;
 
 public class Main {
     /* 개방 폐쇄 원칛(Open Closed Principle) 이란

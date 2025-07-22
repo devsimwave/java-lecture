@@ -1,4 +1,4 @@
-package srp.correct;
+package single_responsibility_principle.correct;
 
 public class Main {
     public static void main(String[] args) {

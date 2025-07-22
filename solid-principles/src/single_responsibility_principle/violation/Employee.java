@@ -1,4 +1,4 @@
-package srp.violation;
+package single_responsibility_principle.violation;
 
 public class Employee {
     private String name;

@@ -1,4 +1,4 @@
-package ocp.violation;
+package open_closed_principle.violation;
 
 public class Main {
     public static void main(String[] args) {
